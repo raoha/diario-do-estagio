@@ -3,7 +3,7 @@ title: Diário do Estágio
 email: fernanda_m_xd@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Esta é uma página destinada a relatar as atividades realizadas no estágio na empresa Webgoal.
-baseurl: "diario-do-estagio" # the subpath of your site, e.g. /blog/
+baseurl: "/diario-do-estagio" # the subpath of your site, e.g. /blog/
 url: "http://raoha.github.io" # the base hostname & protocol for your site
 twitter_username: interpretabiles
 github_username:  FernandaT
