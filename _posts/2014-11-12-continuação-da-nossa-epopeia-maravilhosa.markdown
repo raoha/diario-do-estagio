@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Continuação na nossa epopéia maravilhosa"
+title:  "Continuação da nossa epopéia maravilhosa"
 date:   2014-11-12 18:00:00
 categories: diario
 ---
