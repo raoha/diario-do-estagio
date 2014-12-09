@@ -10,3 +10,6 @@ github_username:  FernandaT
 
 # Build settings
 markdown: kramdown
+
+gems: 
+  - jekyll-sitemap
